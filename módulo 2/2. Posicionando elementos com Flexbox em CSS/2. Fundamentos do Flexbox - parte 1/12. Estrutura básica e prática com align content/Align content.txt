@@ -1,0 +1,20 @@
+ALIGN-CONTENT
+-> É a propriedade responsável por tratar o alinhameno das linhas
+do container em relação ao eixo vertical do container
+-> Trabalhar a orientação das linhas desse container
+
+->Precisamos que:
+1) O container utilize quebra de linhas (flex wrap)
+2) A altura do container seja maior que a soma das linhas dos itens
+   *ou seja, supondo que tenho algumas linhas com altura máxima é de 20px
+   *somando 40px
+   *a altura do container deve ser maior que essa soma
+
+->Tipos de alinhamentos:
+1) center: alinhamento dos itens ao centro
+2) stretch: é o padrão e os flex itens crescem igualmente
+   *os elementos crescem de acordo com o de maior tamanho
+3) flex-starte: alinhamento dos itens no início de acordo com o eixo vertical
+4) flex-end: alinhamento dos itens no final de acordo com o eixo vertical 
+5) space-between: cria um espaçamento igual entre os elementos
+6) space-around: os espaçamentos do meio são duas vezes maiores que o inicial e o final

@@ -1,0 +1,23 @@
+JUSTIFY CONTENT
+-> Essa propriedade vai se encarregar de alinhar os itens dentro do container
+de acordo com a direção pretendida e tratar da distribuição
+de espaçamento entre eles
+
+obs: caso seus itens estejam ocupando 100% de todo o container, ela não se aplica
+     *ou seja, os itens filhos desse flex container não deixam sobra de espaço, nenhuma margem, 
+     não tem como aplicar essa propriedade
+
+-> Objetivo do justify content: distribuir o espaço restante e fazer um alinhamento de acordo
+   com o que se deseja desenvolver na interface
+
+->VARIAÇÕES:
+
+1) Flex-start: faz o alinhamento no início do container
+2) Flex-end: leva todos os itens de acordo com a sobra de espaço para o final do container,
+   respeitando o limite do conteúdo que esse item tem e ocupa
+3) Center: leva todos os elementos ao centro do container
+4) Space-between: cria um espaçamento igual entre os elementos.
+   *destaque: pega o primeiro elemento, vai colocar muito próximo ao início desse container 
+    (próximo a borda esquerda)
+    e o último elemento é levado próximo ao fim desse container (margem a direita)
+5) Space-around: os espaçamentos do meio são duas vezes maiores que o inicial e final

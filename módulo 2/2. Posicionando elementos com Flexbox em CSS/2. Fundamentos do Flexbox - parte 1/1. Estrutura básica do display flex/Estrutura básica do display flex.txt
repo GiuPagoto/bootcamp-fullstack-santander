@@ -1,0 +1,6 @@
+SUGESTÕES
+
+1) HTML Snippets
+	
+2) Live HTML Previewer: faz a renderização dos elementos HTML em tela e utiliza como recurso a própria IDE
+

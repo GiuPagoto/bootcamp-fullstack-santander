@@ -1,0 +1,23 @@
+1) criar o arquivo css na mesma pasta do html
+2) adicionar no arquivo html: dentro do elemento head
+	<link rel="stylesheet" href="style.css">
+	rel = diz ao navegador qual tipo de arquivo está sendo adicionado
+	href = caminho para o arquivo css
+
+
+3) alterar os títulos da página:
+	3 títulos: 
+	h1: título principal
+	h2: título da sessão posts
+	h3: título de uma postagem
+
+	como h1 é o título principal, não deve ser repetido, então adiciona um id
+	<h1 id="title">Giullia Pagoto</h1>
+
+	como h2 é o título da sessão, é adicionado um subtitle como class
+	<h2 class="subtitle">Posts</h2>
+
+	como h3 é o título de uma postagem, é adicionado um post_title como class
+	<h3 class="post_title">Post #1</h3>
+
+4) mudar a aparência

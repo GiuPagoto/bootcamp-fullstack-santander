@@ -1,0 +1,27 @@
+---> POSICIONANDO ELEMENTOS COM FLEXBOX EM CSS
+
+--> INTRODUÇÃO AO CURSO
+
+->INTRODUÇÃO AO FLEX BOX
+
+
+FLEX CONTAINER
+-> Propriedades relacionadas:
+
+1)Display: inicializador do container
+2)Flex-direction: faz o direcionamento dos itens (em linha ou coluna)
+3)Flex-wrap: quebra de linha, ou não
+4)Flax-flow: abrviação para o direction e o wrap
+5)Justify-content:alinha os itens do container de acordo com a sua direção
+6)Align-items: alinha os itens de acordo com o seu eixo do container
+7)Align-content: alinha as linhas desse container
+
+FLEX ITEN
+-> Propriedades relacionadas:
+
+1) Flex-grow:define o fator de crescimento
+2) Flex-basis: define o tamanho inicial desse item antes da distribuição do espaço restante dentro do container
+3) Flex-shrink: define a capacidade de redução
+4) Flex: abreviação para as três propriedades Flex-
+5) Order: relacionada a ordem de distribuição e listagem desses itens
+6) Align-self: define o alinhamento de um item específico desse container

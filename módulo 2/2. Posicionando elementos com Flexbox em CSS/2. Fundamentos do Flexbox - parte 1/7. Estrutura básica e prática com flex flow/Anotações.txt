@@ -1,0 +1,3 @@
+FLEX-FLOW
+-> É um atalho para as propriedades fles-direction e fles-wrap
+-> Não é tão utilizado porque quando mudamos o flex-direction para column, mantemos o padrão do flex-wrap que é nowrap

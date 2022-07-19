@@ -1,0 +1,8 @@
+FLEX WRAP
+
+-> nowrap: é o padrão, não permite a quebra de linha
+-> wrap: permite a quebra de linha assim que um dos flex itens não puder mais ser compactado
+
+*PROBLEMA: espeçamento
+
+->wrap-reverse: permite a quebra de linha assim que um dos flex itens não puder mais ser compactado, porém na direção contrária da linha, acima

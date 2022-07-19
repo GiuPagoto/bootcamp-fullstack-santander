@@ -1,0 +1,5 @@
+.post_title{
+	font-family: Verdana, Arial
+}
+
+caso a primeira fonte não funcione, a segunda entra como backup

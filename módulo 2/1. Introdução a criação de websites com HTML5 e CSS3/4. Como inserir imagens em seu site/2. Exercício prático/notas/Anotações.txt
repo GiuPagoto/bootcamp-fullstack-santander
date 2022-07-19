@@ -1,0 +1,21 @@
+INSERIR IMAGENS 
+
+1. de outra pasta:
+<img src = "img/GiulliaPagoto.jpeg">
+
+2. de outro site:
+<img src = "http://www../GiulliaPagoto.jpeg">
+com o endereço completo
+
+MUDANÇAS NA IMAGEM
+
+1. caso o arquivo da imagen esteja certo, a descrição da mesma não aparecerá no site. Apenas a foto
+2. caso a imagem não exista mais, ou o seu endereço estiver errado, no site aparece como imagem quebrada seguida da descrição no alt
+
+SITES ÚTEIS
+
+1. https://www.iloveimg.com/pt
+para redimensionar a imagem
+
+2. https://tinypng.com/
+para otimizar e ganhar espaço ao remover dados desnecessários, algumas meta informações

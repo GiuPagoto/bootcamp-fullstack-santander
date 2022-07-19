@@ -1,0 +1,8 @@
+#title, .subtitle, .post_title {
+    color: palevioletred;
+}
+
+.post_title {
+    font-size:16px;
+    font-style: italic;
+}

@@ -1,0 +1,13 @@
+-> FLEX DIRECTION
+
+-> OS EIXOS
+
+1) row(padrão): quando inializamos o container, ele vem por padrão setado com o row
+		é a direção que estamos escrevendo o texto (esquerda para direita)
+2) row-reverse: sentido oposto à direção do texto
+		modo de leitura
+		visualização dos nossos itens
+3) column: modifica para o eixo vertical, eixo de coluna
+	   ordenação de cima pra baixo
+4) column-reverse: de baixo pra cima
+	   
